@@ -2,7 +2,7 @@
 - 🏫 I am University student which learning Information Systems💻 and design🎨
 - 💌 Twitter @ma_ma_hima - [link](https://twitter.com/ma_ma_hima)
 - 💻 Github @whooolemilk - [link](https://github.com/whooolemilk)
-- 📝 Portfolio - [in progress...]
+- 📝 Portfolio - [link](https://whooolemilk.github.io/Portfolio/)
 - 📖 Blog - [in progress...]
 
 ## 🌱 Learning
